@@ -12,5 +12,5 @@ Avert your eyes! I haven't had time to freshen up. This is a work in progress. I
 
 This project has nothing to do with Coffee Script, it uses dastardly jquery and doesn't even need to. I will be changing these things.
 
-It should be noted that I am using a highly expirmental setup with Atom, the RhinoPython package for Atom, and Beta Rhino 3d for mac.
+It should be noted that I am using a highly expirmental setup with Atom, the RhinoPython package for Atom, and Beta Rhino 3d for mac. So please don't smoke near this project.
 
